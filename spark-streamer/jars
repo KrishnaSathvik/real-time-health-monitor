@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.mongodb.spark</groupId>
+    <artifactId>mongo-spark-connector_2.13</artifactId>
+    <version>10.5.0</version>
+</dependency>
